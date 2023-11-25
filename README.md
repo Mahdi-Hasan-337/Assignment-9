@@ -5,9 +5,6 @@
 - [Installation](#installation)
 - [Database Setup (Optional)](#database-setup-optional)
 - [Usage](#usage)
-- [Styling](#styling)
-- [Contributing](#contributing)
-- [License](#license)
 ## Requirements
 - PHP 7.4 or higher
 - Composer
@@ -60,7 +57,7 @@ If you want to include a section for projects or blog posts, you can set up a da
 	```bash
 	php artisan db:seed
 	```
-    
+
 ## Usage
 To start the Laravel development server : 
 ```bash
